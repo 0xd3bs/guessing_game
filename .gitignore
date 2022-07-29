@@ -1,1 +1,7 @@
-/target
+Rust/target
+Rust/res
+Rust/neardev
+
+AssemblyScript/node_modules
+AssemblyScript/build
+AssemblyScript/neardev
